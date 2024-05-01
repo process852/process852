@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm currently studing on ZheJiang University
+- 🌱 I’m currently learning about Computer Vision
+
+
 <!--
 **process852/process852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
